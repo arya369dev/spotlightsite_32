@@ -1,0 +1,37 @@
+# Spotlight
+
+> Spotlight is an AI-powered media and digital marketing agency. Where marketing meets intelligence. We help brands get found, remembered and chosen through strategy, performance advertising, content, film, brand identity, SEO and AI search optimisation.
+
+Key facts:
+- Website: https://spotlight.agency
+- Contact: hello@spotlight.agency
+- Based in India, working with clients in India and worldwide
+- Free offer: a growth audit delivered within 48 hours, with no obligation
+- Every AI-assisted strategy, creative and post is reviewed and approved by a person before it goes live
+
+## Services
+- AI marketing strategy: market and competitor intelligence, audience personas, channel and budget planning, 90-day roadmap
+- Performance marketing: Meta (Facebook, Instagram) and Google (Search, Performance Max, YouTube) ads, Pixel and Conversions API setup, retargeting
+- Social media and content: content calendars, copy, design, short-form video, community management
+- Video and media production: ad films, brand stories, product and UGC-style video, motion graphics
+- Brand identity: positioning, messaging, logo and visual identity, brand voice
+- SEO and AI search: technical and local SEO, structured data, answer engine optimisation (AEO), generative engine optimisation (GEO)
+- Influencer and creator marketing: discovery, vetting, contracts, UGC, tracked reporting
+- Websites and funnels: design and build, landing pages, speed, accessibility, conversion rate optimisation
+
+## How we work
+1. Discover: free audit of brand, market, competitors and current marketing
+2. Illuminate: strategy with audiences, messages, channels and success metrics
+3. Launch: creative, campaigns and content go live with full tracking
+4. Amplify: weekly optimisation and plain-language reporting
+
+## Pages
+- [Home](https://spotlight.agency/): services, process, FAQ and the free growth audit form
+- [Insights](https://spotlight.agency/insights): blog, news and events
+- [Full content index](https://spotlight.agency/llms-full.txt): every published article, news item and event
+- [Privacy policy](https://spotlight.agency/privacy)
+- [Terms & conditions](https://spotlight.agency/terms)
+
+## Optional
+- [RSS feed](https://spotlight.agency/feed.xml)
+- [Sitemap](https://spotlight.agency/sitemap.xml)
